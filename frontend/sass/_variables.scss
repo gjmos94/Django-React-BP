@@ -1,0 +1,12 @@
+// _variables.scss
+
+$primary-color: #092e20;
+$text-color: #ffffff;
+
+// _mixins.scss
+
+@mixin flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
